@@ -1,0 +1,16 @@
+﻿@model CountryVM
+<!-- Topbar Search -->
+<form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
+    <div class="input-group">
+        
+        <form asp-area="Admin" asp-controller="Country" asp-action="Search" method="post" class="d-inline">
+            <input type="text" asp-for="@Model.Name" class="form-control bg-light border-0 small" placeholder="Search for..."
+                   aria-label="Search" aria-describedby="basic-addon2">
+            <div class="input-group-append">
+                <button type="submit" class="fas fa-search fa-sm">Search</button>
+            </div>
+        </form>
+    </div>
+</form>
+
+<!-- Topbar Navbar -->

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nergiznadirli/Desktop/Hmwork10_11/Consume-Api/PB102-Consume/PB102-Consume.csproj": {}
+  },
+  "projects": {
+    "/Users/nergiznadirli/Desktop/Hmwork10_11/Consume-Api/PB102-Consume/PB102-Consume.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nergiznadirli/Desktop/Hmwork10_11/Consume-Api/PB102-Consume/PB102-Consume.csproj",
+        "projectName": "PB102-Consume",
+        "projectPath": "/Users/nergiznadirli/Desktop/Hmwork10_11/Consume-Api/PB102-Consume/PB102-Consume.csproj",
+        "packagesPath": "/Users/nergiznadirli/.nuget/packages/",
+        "outputPath": "/Users/nergiznadirli/Desktop/Hmwork10_11/Consume-Api/PB102-Consume/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nergiznadirli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.315/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
