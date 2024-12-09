@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{142909B2-1C5F-4C37-9E79-D477AE58CCFA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PB102-Consume/Models/City.cs">
+    <Files>
+      <File FileName="PB102-Consume/Areas/Admin/Controllers/CityController.cs" Line="130" Column="40" />
+      <File FileName="PB102-Consume/Areas/Admin/ViewModels/CityCreateVM.cs" Line="17" Column="1" />
+      <File FileName="PB102-Consume/Areas/Admin/ViewModels/CityVM.cs" Line="19" Column="1" />
+      <File FileName="PB102-Consume/Areas/Admin/ViewModels/CityEditVM.cs" Line="20" Column="1" />
+      <File FileName="PB102-Consume/Models/City.cs" Line="8" Column="44" />
+      <File FileName="PB102-Consume/Models/Country.cs" Line="9" Column="45" />
+      <File FileName="PB102-Consume/Areas/Admin/Views/City/Index.cshtml" Line="20" Column="29" />
+      <File FileName="PB102-Consume/Areas/Admin/Views/City/Detail.cshtml" Line="17" Column="1" />
+      <File FileName="PB102-Consume/Areas/Admin/Views/City/Edit.cshtml" Line="20" Column="11" />
+      <File FileName="PB102-Consume/Areas/Admin/Views/City/Create.cshtml" Line="8" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PB102-Consume">
+            <Node name="PB102-Consume">
+              <Node name="Areas">
+                <Node name="Admin">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Models" expanded="True" />
+                  <Node name="ViewModels" expanded="True" />
+                  <Node name="Views">
+                    <Node name="City" expanded="True" />
+                    <Node name="Country" expanded="True" />
+                    <Node name="Dashboard" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models">
+                <Node name="City.cs" selected="True" />
+              </Node>
+              <Node name="ViewComponents" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PB102-Consume PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -14,6 +14,10 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Admin\Views\City\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Areas\Admin\Views\City\" />
+  </ItemGroup>
 </Project>

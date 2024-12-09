@@ -66,6 +66,7 @@
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" asp-controller="Country" asp-action="Index">Country</a>
+                        <a class="collapse-item" asp-controller="City" asp-action="Index">City</a>
                         <a class="collapse-item" href="cards.html">Cards</a>
                     </div>
                 </div>
@@ -166,7 +167,6 @@
                         <i class="fa fa-bars"></i>
                     </button>
 
-                    @await Component.InvokeAsync("Header");
                     <ul class="navbar-nav ml-auto">
 
                         <!-- Nav Item - Search Dropdown (Visible Only XS) -->

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D37F2FA0-C323-4AD3-980F-29EA6500FEFD}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api-intro/appsettings.Development.json">
+    <Files>
+      <File FileName="Api-intro/Controllers/CityController.cs" Line="1" Column="1" />
+      <File FileName="Api-intro/Controllers/CountryController.cs" Line="1" Column="1" />
+      <File FileName="Api-intro/Data/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="Api-intro/appsettings.Development.json" Line="11" Column="2" />
+      <File FileName="Api-intro/Program.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api-intro">
+            <Node name="Api-intro">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Api-intro PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

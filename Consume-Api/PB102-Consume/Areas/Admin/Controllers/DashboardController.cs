@@ -9,7 +9,5 @@ namespace PB102_Consume.Areas.Admin.Controllers
         {
             return View();
         }
-
-    
     }
 }
